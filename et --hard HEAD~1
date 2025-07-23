@@ -1,0 +1,19 @@
+*   [33m6f13fee[m[33m ([m[1;31morigin/main[m[33m)[m Merge branch 'thai-lang'
+[31m|[m[32m\[m  
+[31m|[m * [33m4486bc4[m Edit thai label
+[31m|[m * [33m9181a2b[m Edit command label in summit and reset lang Eng to TH
+[31m|[m * [33m4e1564d[m[33m ([m[1;36mHEAD -> [m[1;32mthai-lang[m[33m, [m[1;31morigin/thai-lang[m[33m)[m Edit to thai label
+* [32m|[m [33m2919029[m edit
+* [32m|[m [33ma1fce08[m[33m ([m[1;32mmain[m[33m)[m Edit label null
+[32m|[m [32m|[m * [33ma708330[m[33m ([m[1;32mhotfix[m[33m)[m Edit label null news
+[32m|[m [32m|[m[32m/[m  
+[32m|[m[32m/[m[32m|[m   
+* [32m|[m [33m5b80dac[m Edit age label waning 0<>100
+* [32m|[m [33m69095cd[m Edit label age Eng to TH
+* [32m|[m [33mcca971f[m Notify in quasar.config.js
+[32m|[m[32m/[m  
+* [33m3022667[m Edit script
+* [33m7427d17[m Edit form
+* [33m2ad9077[m First commit
+* [33mef845fb[m[33m ([m[1;31morigin/master[m[33m)[m new image information
+* [33mcd868b9[m Initialize the project 🚀
